@@ -1,16 +1,22 @@
-## Hi there 👋
+## My GitHub Profile
+![alt text](github-header-banner.png)
+## 💻 Junior Web Developer
+Junior web developer learning JavaScript, React, and Next.js. Passionate about building responsive and user-friendly websites. Always eager to learn new technologies and improve my skills.
 
-<!--
-**ShafayatSadid/ShafayatSadid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **Personal Portfolio** – A simple website to show my projects and experience.
+- **Landing Page** – A clean responsive page built with HTML and CSS.
+- **React App** – A small app using React components for learning state and props.
+
+## Contact
+
+- Email: shafayathossainsadid@gmail.com
+- GitHub: [github.com/ShafayatSadid](https://github.com/ShafayatSadid)
