@@ -18,7 +18,7 @@
 
 I'm a **Full-Stack Developer** with a passion for building modern, user-friendly web applications. I love solving complex problems and continuously learning new technologies. Currently, I'm focused on **Next.js**, **React**, and building scalable applications with **MongoDB** and **Express.js**.
 
-- I’m currently working on **[Al-Quran Education](https://al-quran-education.vercel.app/)** – An Islamic education platform
+- I’m currently working on **[Monohor Shop](https://https://github.com/ShafayatSadid/monohor-client/)** – An Islamic education platform
 - I’m currently learning **Next.js 16**, **Better Auth**, and **Advanced MongoDB**
 - Ask me about **React, Next.js, Node.js, MongoDB, and Full-Stack Development**
 - Fun fact: I love exploring Islamic history and technology
@@ -34,7 +34,6 @@ I'm a **Full-Stack Developer** with a passion for building modern, user-friendly
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
 ### Backend
