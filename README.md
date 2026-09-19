@@ -18,7 +18,7 @@
 
 I'm a **Full-Stack Developer** with a passion for building modern, user-friendly web applications. I love solving complex problems and continuously learning new technologies. Currently, I'm focused on **Next.js**, **React**, and building scalable applications with **MongoDB** and **Express.js**.
 
-- I’m currently working on **[Monohor Shop](https://https://github.com/ShafayatSadid/monohor-client)** – An E-commerce platform
+- I’m currently working on **[Monohor Shop]()** – An E-commerce platform
 - I’m currently learning **Next.js 16**, **Better Auth**, and **Advanced MongoDB**
 - Ask me about **React, Next.js, Node.js, MongoDB, and Full-Stack Development**
 - Fun fact: I love exploring Islamic history and technology
