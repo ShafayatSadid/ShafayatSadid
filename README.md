@@ -18,13 +18,37 @@
 
 I'm a **Full-Stack Developer** with a passion for building modern, user-friendly web applications. I love solving complex problems and continuously learning new technologies. Currently, I'm focused on **Next.js**, **React**, and building scalable applications with **MongoDB** and **Express.js**.
 
-- I’m currently working on **[Monohor Shop]()** – An E-commerce platform
-- I’m currently learning **Next.js 16**, **Better Auth**, and **Advanced MongoDB**
-- Ask me about **React, Next.js, Node.js, MongoDB, and Full-Stack Development**
-- Fun fact: I love exploring Islamic history and technology
+- Currently working on **[Monohor](https://monohor.com.bd)** — a live e-commerce platform for a Bengali traditional brand
+- Learning **Advanced Next.js**, **Better Auth**, and **System Design**
+- Ask me about **React, Next.js, Node.js, MongoDB, or Full-Stack Development**
+- Focused on: clean architecture, server-side security, and shipping real products
+- Fun fact: I love exploring Islamic history and modern tech
 
 ---
 
+## 🎯 Featured Project
+
+### 🛍️ Monohor — Bengali Traditional E-commerce Platform
+
+A complete full-stack e-commerce platform built solo in 17 days for a real Bengali heritage brand.
+
+**Live:** [monohor.com.bd](https://monohor.com.bd)
+
+**What it does:**
+- Customer storefront with Hero carousel and category browsing
+- Product variants (multiple sizes per product)
+- Cart + Wishlist with localStorage persistence
+- Guest checkout with **server-side price validation**
+- Google OAuth + Email authentication
+- Admin dashboard with full CRUD
+- Reviews system with admin moderation
+- Markdown product descriptions with live preview
+- Automated Bengali email notifications via Resend
+- Steadfast Courier integration
+
+**Tech:** Next.js 16 · React 19 · Tailwind CSS 4 · HeroUI · Zustand · Node.js · Express · MongoDB · Better Auth · Cloudinary · Resend · Vercel · Cloudflare
+
+---
 
 ## Tech Stack
 
@@ -51,6 +75,7 @@ I'm a **Full-Stack Developer** with a passion for building modern, user-friendly
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/HeroUI-000000?style=for-the-badge&logo=heroku&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 ---
