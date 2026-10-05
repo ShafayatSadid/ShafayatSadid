@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Developer building production web apps for real clients</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F2747&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;MERN+Stack+Developer;Learning+Go+%26+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A5C36&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;MERN+Stack+Developer;Learning+Go+%26+DSA" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShafayatSadid&label=Profile%20Views&color=0F2747&style=flat" alt="ShafayatSadid" />
+  <img src="https://komarev.com/ghpvc/?username=ShafayatSadid&label=Profile%20Views&color=0A5C36&style=flat" alt="ShafayatSadid" />
   <a href="https://github.com/ShafayatSadid?tab=followers">
     <img src="https://img.shields.io/github/followers/ShafayatSadid?label=Followers&style=social" alt="GitHub Followers" />
   </a>
